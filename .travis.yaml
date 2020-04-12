@@ -21,8 +21,8 @@ script:
     	image_name=${image##*/}
     	docker pull $image
         echo $ALI_REGISTRY
-        docker tag $image $ALI_REGISTRY/$image_name
+        docker tag $image $ALI_REGISTRY/docker-image-wxc/$image_name
     	
     	# push到阿里云仓库
-    	docker push $ALI_REGISTRY/$image_name
+    	docker push $ALI_REGISTRY/docker-image-wxc/$image_name
     done
