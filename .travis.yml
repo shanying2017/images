@@ -6,7 +6,7 @@ services:
 env:
   global:
     #change the registry name and username/password to yourself's.
-    - ALI_REGISTRY=registry.cn-hangzhou.aliyuncs.com/docker-image-wxc
+    - ALI_REGISTRY=registry.cn-hangzhou.aliyuncs.com
     - ALI_USERNAME=shanying2008@163.com
     - ALI_PASSWORD=3408636xc
     
