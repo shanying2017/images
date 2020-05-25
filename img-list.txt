@@ -57,7 +57,25 @@
 #k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
 #openpai/pai.example.caffe
 #openpai/grafana:v1.0.0
+openpai/grafana:v1.0.0
+openpai/webportal:v1.0.0
+openpai/watchdog:v1.0.0
+openpai/yarn-frameworklauncher:v1.0.0
+openpai/zookeeper:v1.0.0
+openpai/cleaning-image:v1.0.0
+openpai/hadoop-run:v1.0.0
+openpai/job-exporter:v1.0.0
+openpai/yarn-exporter:v1.0.0
+openpai/drivers-418.56:v1.0.0
 openpai/pylon:v1.0.0
+openpai/rest-server:v1.0.0
+openpai/fluentd:v1.0.0
+openpai/cleaner:v1.0.0
+openpai/log-manager-logrotate:v1.0.0
+openpai/log-manager-nginx:v1.0.0
+openpai/example.caffe:v1.0.0
+openpai/node-exporter:v1.0.0
+openpai/prometheus:v1.0.0
 
 
 
