@@ -1,9 +1,11 @@
-quay.io/coreos/kube-state-metrics:v1.9.7
-
-
-
-
-
-
+nexus3.acumos.org:10004/acumos-azure-client:3.0.3
+nexus3.acumos.org:10004/acumos-portal-be:3.0.24
+nexus3.acumos.org:10004/acumos-portal-fe:3.0.24
+nexus3.acumos.org:10004/ds-compositionengine:3.0.2
+nexus3.acumos.org:10004/kubernetes-client:3.0.1
+nexus3.acumos.org:10004/acumos/microservice-generation:3.8.0
+nexus3.acumos.org:10004/acumos/onboarding-app:3.8.0
+nexus3.acumos.org:10004/openstack-client:3.0.1
+nexus3.acumos.org:10004/acumos/deployment-client:1.0.2
 
 
