@@ -1,7 +1,3 @@
-nexus3.acumos.org:10002/sqldatabroker:1.2.0
-nexus3.acumos.org:10002/csvdatabroker:1.4.0
-#nexus3.acumos.org:10002/onboarding-base-r:1.0.0
-nexus3.acumos.org:10002/blueprint-orchestrator:2.0.13
 nexus3.acumos.org:10002/h2o-genericjava-modelrunner:2.2.3
 nexus3.acumos.org:10002/databroker-zipbroker:1.0.0
 nexus3.acumos.org:10002/acumos-proto-viewer:1.5.7
