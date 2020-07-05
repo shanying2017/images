@@ -1,1 +1,15 @@
-
+nexus3.acumos.org:10004/model-service:2.0.2
+nexus3.acumos.org:10004/notebook-service:2.0.2
+nexus3.acumos.org:10004/pipeline-service:2.0.3
+nexus3.acumos.org:10004/predictor-service:1.0.2
+nexus3.acumos.org:10004/project-service:2.0.3
+nexus3.acumos.org:10004/acumos/home-webcomponent:2.0.8
+nexus3.acumos.org:10004/acumos/dashboard-webcomponent:2.0.8
+nexus3.acumos.org:10004/acumos/project-webcomponent:2.0.8
+nexus3.acumos.org:10004/acumos/notebook-webcomponent:2.0.8
+nexus3.acumos.org:10004/acumos/pipeline-webcomponent:2.0.8
+nexus3.acumos.org:10004/acumos/project-catalog-webcomponent:2.0.8
+nexus3.acumos.org:10004/acumos/notebook-catalog-webcomponent:2.0.8
+nexus3.acumos.org:10004/acumos/pipeline-catalog-webcomponent:2.0.8
+nexus3.acumos.org:10004/acumos-filebeat:3.0.4
+nexus3.acumos.org:10004/acumos-metricbeat:3.0.4
