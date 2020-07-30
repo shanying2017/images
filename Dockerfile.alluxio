@@ -1,0 +1,1 @@
+FROM alluxio/alluxio-presto-sandbox:latest
