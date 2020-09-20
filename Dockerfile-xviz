@@ -1,0 +1,3 @@
+From ubuntu
+COPY download-data.sh /root/
+RUN cd /root/ && /bin/bash download-data.sh
