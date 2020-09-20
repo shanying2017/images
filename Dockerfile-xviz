@@ -1,3 +1,4 @@
 From ubuntu
 COPY download-data.sh /root/
+RUN apt-get update && apt-get install wget -y
 RUN cd /root/ && /bin/bash download-data.sh
