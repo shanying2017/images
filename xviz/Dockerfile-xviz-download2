@@ -1,4 +1,4 @@
 From centos
-COPY download-data.sh /root/
+COPY download-frame.sh /root/
 RUN yum install wget unzip -y
 RUN cd /root/ && /bin/bash download-frame.sh
