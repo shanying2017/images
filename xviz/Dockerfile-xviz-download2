@@ -1,4 +1,4 @@
-From ubuntu
+From centos
 COPY download-data.sh /root/
-RUN apt-get update && apt-get install wget unzip -y
-RUN cd /root/ && /bin/bash download-freame.sh
+RUN yum install wget unzip -y
+RUN cd /root/ && /bin/bash download-frame.sh
