@@ -1,0 +1,1 @@
+FROM paddlepaddle/paddle:latest-gpu-cuda11.0-cudnn8
