@@ -1,4 +1,4 @@
 FROM ubuntu:16.04
 
-RUN apt-get update -y & apt-get install wget -y
+RUN apt-get update -y & apt-get install curl wget -y
 RUN wget http://developer.download.nvidia.com/compute/cuda/11.0.2/local_installers/cuda_11.0.2_450.51.05_linux.run
