@@ -1,0 +1,1 @@
+FROM milvusdb/milvus:1.0.0-gpu-d030521-1ea92e
