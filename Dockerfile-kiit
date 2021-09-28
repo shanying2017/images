@@ -1,0 +1,4 @@
+FROM ubuntu
+RUN apt-get update -y
+RUN apt-get install wget -y
+RUN wget https://s3.eu-central-1.amazonaws.com/avg-kitti/data_object_image_3.zip
