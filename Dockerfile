@@ -1,1 +1,1 @@
-FROM nexus3.acumos.org:10002/blueprint-orchestrator:2.0.13
+FROM k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
